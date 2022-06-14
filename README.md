@@ -12,15 +12,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
 
-## About
+## 📘 About
 Simple application that reveals a person's destiny from a question.
 
-## How use
+## 🎲 How use
 Go to the <a href="https://elainefs.github.io/your-destiny/" target="_blank">website</a> and enter a question. That simple.
 
 _Note: This site works only in Portuguese._
 
-## License
+## 📄 License
 This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/your-destiny/blob/main/LICENSE) file for more details.
 
 <hr>
